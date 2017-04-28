@@ -1,0 +1,56 @@
+{
+  "apps": {
+    "ammadonightly1": {
+      "baseUrl": "https://www.ammadonightly1.com",
+      "widgetUrl": "https://www.ammadonightly1.com/widget/donate",
+      "params": {
+        "login": {
+          "member": "51513@ammado.com",
+          "nonprofit": "",
+          "company": ""
+        },
+        "password": "",
+        "widgetUrl": "https://www.ammadonightly1.com/widget/donate"
+      }
+    },
+    "ammadonightly2": {
+      "baseUrl": "https://www.ammadonightly2.com",
+      "widgetUrl": "https://www.ammadonightly2.com/widget/donate",
+      "params": {
+        "login": {
+          "member": "51513@ammado.com",
+          "nonprofit": "",
+          "company": ""
+        },
+        "password": "",
+        "widgetUrl": "https://www.ammadonightly2.com/widget/donate"
+      }
+    },
+    "ammadonightly3": {
+      "baseUrl": "https://www.ammadonightly3.com",
+      "params": {
+        "login": {
+          "member": "atester1@ammadoqa.com",
+          "nonprofit": "acharity1@ammadoqa.com",
+          "company": "acompany1@ammadoqa.com",
+          "password": "password"
+        },
+        "password": "",
+        "widgetUrl": "https://www.ammadonightly3.com/widget/donate"
+      }
+    },
+    "ammadonightly4": {
+      "baseUrl": "https://www.ammadonightly4.com",
+      "params": {
+        "login": {
+          "member": "atester1@ammadoqa.com",
+          "nonprofit": "acharity1@ammadoqa.com",
+          "company": "acompany1@ammadoqa.com",
+          "password": "password"
+        },
+        "password": "",
+        "widgetUrl": "https://www.ammadonightly4.com/widget/donate"
+      }
+    }
+  }
+}
